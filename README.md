@@ -1,4 +1,4 @@
-# Analisis-Inversion-Airbnb-Tableau.
+# Analysis-Investment-Airbnb-Tableau
 A Tableau project analyzing the Airbnb rental market to identify profitable investment opportunities.
 <img width="1835" height="715" alt="image" src="https://github.com/user-attachments/assets/cfa9fdb8-5832-4bbb-9e69-2e5cb20a40ff" />
 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/AirBnBFullProject_17540136437110/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
